@@ -8,6 +8,7 @@
 // Windforce - Hydra Bow (floor 3)
 // Mang Song's Lesson - Archon Staff (floor 4)
 // Ghostflame - Legend Spike (floor 3)
+// Boneshade - Lich Wand (non-ETH 4, ETH 2; floor 1; ETH floor 1)
 // Azurewrath - Phase Blade (floor 3)
 // Lightsabre - Phase Blade
 // Death's Web - Unearthed Wand (floor 4)
@@ -31,12 +32,14 @@
 // Ephemeral - Sacred Targe (floor 4)
 // Alma Negra - Sacred Rondache (floor 4)
 // Skywarden - Vortex Shield (floor 3)
+// Harlequin Crest - Shako (non-ETH 4, ETH 1; floor 3)
 // Templar's Might - Sacred Armor (floor 4)
 // Tyrael's Might - Sacred Armor (floor 4)
 // Giant Skull - Bone Visage (floor 3)
 // Siggard's Staunch - Colossus Girdle (floor 4)
 // Nightwing's Veil - Spired Helm (floor 4)
 // Veil of Steel - Spired Helm (floor 4)
+// Stormshield - Monarch (non-ETH 4, ETH 2; floor 2)
 // Arachnid Mesh - Spiderweb Sash (non-ETH 4, ETH 3; floor 4)
 // Steel Shade - Armet (non-ETH 4, ETH 2; floor 3)
 // Verdungo's Hearty Cord - Mithril Coil (floor 3)
@@ -47,17 +50,20 @@
 // Andariel's Visage - Demonhead (floor 4)
 // Occultist - Crusader Gauntlets (floor 3)
 // Spirit Ward - Ward (non-ETH 4, ETH 3; floor 3)
+// Ormus' Robes - Dusk Shroud (non-ETH 4, ETH 2; floor 3)
 // Steel Carapace - Shadow Plate (floor 4)
 // Dracul's Grasp - Vampirebone Gloves (floor 4)
+// Skin of the Vipermagi - Serpentskin Armor (non-ETH 4, ETH 3; floor 2; ETH floor 2)
 // Vampire Gaze - Grim Helm (floor 3)
 // Gore Rider - War Boots (floor 4)
 // War Traveler - Battle Boots (floor 3)
 // Waterwalk - Sharkskin Boots (floor 3)
-Alias[4_STAR_UNIQUE]: (6lw OR 6ws OR 7bl OR 7cr OR 7gw OR 7pa OR 7wh OR 7ws OR 8ws OR 9ls OR amd OR amf OR aqv3 OR ci2 OR ci3 OR drd OR dre OR obe OR pa9 OR pab OR pac OR paf OR uar OR uh9 OR uhc OR uhm OR ulc OR ulm OR umc OR umg OR upl OR urn OR urs OR usk OR utg OR uts OR uul OR uvg OR xh9 OR xhb OR xtb OR xvb)
+Alias[4_STAR_UNIQUE]: (6lw OR 6ws OR 7bl OR 7bw OR 7cr OR 7gw OR 7pa OR 7wh OR 7ws OR 8ws OR 9ls OR amd OR amf OR aqv3 OR ci2 OR ci3 OR drd OR dre OR obe OR pa9 OR pab OR pac OR paf OR uap OR uar OR uh9 OR uhc OR uhm OR uit OR ulc OR ulm OR umc OR umg OR upl OR urn OR urs OR usk OR utg OR uts OR uui OR uul OR uvg OR xea OR xh9 OR xhb OR xtb OR xvb)
 
 // 3 Star Unique Callouts (non-ETH copies)
 //-----------------------------------------------------------------------------------
 // Brimstone Rain - Shillelagh (floor 3)
+// Widowmaker - Ward Bow (non-ETH 3, ETH 2)
 // Doombringer - Champion Sword (non-ETH 3, ETH 4; floor 2; ETH floor 4)
 // The Grandfather - Colossus Blade (non-ETH 3, ETH 4; floor 2; ETH floor 4)
 // Earth Shifter - Thunder Maul (non-ETH 3, ETH 4)
@@ -81,38 +87,36 @@ Alias[4_STAR_UNIQUE]: (6lw OR 6ws OR 7bl OR 7cr OR 7gw OR 7pa OR 7wh OR 7ws OR 8
 // Martyrdom - Overseer Skull (non-ETH 3, ETH 2; floor 3)
 // Darkforce Spawn - Bloodlord Skull (floor 2)
 // Sacred Totem - Hellspawn Skull (floor 2)
+// Death's Fathom - Dimensional Shard (non-ETH 3, ETH 2)
 // Goblin Toe - Light Plated Boots (floor 3)
 // Magefist - Light Gauntlets (floor 3)
-// Harlequin Crest - Shako (non-ETH 3, ETH 1; floor 3)
+// Shadow Dancer - Myrmidon Greaves (non-ETH 3, ETH 2; floor 2; ETH floor 2)
 // Steelrend - Ogre Gauntlets (floor 2)
-// Stormshield - Monarch (non-ETH 3, ETH 2; floor 2)
+// Merman's Sprocket - Wyrmhide Boots (non-ETH 3, ETH 2)
 // Marrowwalk - Boneweave Boots (floor 3)
 // Wraithskin - Diamond Mail (floor 2)
 // Medusa's Gaze - Aegis (floor 1)
 // Twilight's Reflection - Hyperion (floor 1)
 // Warriv's Warder - Heater (floor 2)
-// Ormus' Robes - Dusk Shroud (non-ETH 3, ETH 2; floor 3)
 // Nosferatu's Coil - Vampirefang Belt (floor 2)
-// Skin of the Vipermagi - Serpentskin Armor (floor 2)
 // Valkyrie Wing - Winged Helm (floor 1)
 // Shaftstop - Mesh Armor (floor 2)
 // Infernostride - Demonhide Boots (floor 2)
 // Guardian Angel - Templar Coat (non-ETH 3, ETH 4; floor 3)
 // Silkweave - Mesh Boots (floor 1)
 // Gerke's Sanctuary - Pavise (floor 1)
+// Skullder's Ire - Russet Armor (non-ETH 3, ETH 2; floor 1; ETH floor 1)
 // Lidless Wall - Grim Shield (floor 2)
 // Lava Gout - Battle Gauntlets (floor 2)
 // Thundergod's Vigor - War Belt (non-ETH 3, ETH 1; floor 2)
 // String of Ears - Demonhide Sash (floor 3)
 // Snowclash - Battle Belt (non-ETH 3, ETH 1; floor 2)
 // Razortail - Sharkskin Belt (floor 2)
-Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7wc OR 7xf OR 8mx OR 8rx OR ame OR bae OR cqv3 OR dr6 OR dra OR drc OR ned OR nef OR neg OR tbt OR tgl OR uap OR uhg OR uit OR umb OR ung OR uow OR urg OR uuc OR uui OR uvc OR xea OR xhm OR xhn OR xlb OR xlt OR xmb OR xow OR xsh OR xtg OR zhb OR zlb OR ztb OR zvb)
+Alias[3_STAR_UNIQUE]: (6bs OR 6sw OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7wc OR 7xf OR 8mx OR 8rx OR ame OR bae OR cqv3 OR dr6 OR dra OR drc OR ned OR nef OR neg OR obf OR tbt OR tgl OR uhb OR uhg OR ulb OR umb OR ung OR uow OR urg OR uuc OR uvc OR xhm OR xhn OR xlb OR xlt OR xmb OR xow OR xpl OR xsh OR xtg OR zhb OR zlb OR ztb OR zvb)
 
 // 2 Star Unique Callouts (non-ETH copies)
 //-----------------------------------------------------------------------------------
-// Widowmaker - Ward Bow
 // Hellslayer - Decapitator (floor 1)
-// Boneshade - Lich Wand (floor 1)
 // Horizon's Tornado - Scourge (floor 2)
 // Stormlash - Scourge (floor 2)
 // Flamebellow - Balrog Blade
@@ -121,6 +125,7 @@ Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7
 // Arioc's Needle - Hyperion Spear (non-ETH 2, ETH 4; floor 1; ETH floor 4)
 // Gargoyle's Bite - Winged Harpoon
 // Death Cleaver - Berserker Axe (non-ETH 2, ETH 4; ETH floor 4)
+// Nethercrux - Ghost Wand (non-ETH 2, ETH 1)
 // Buriza-Do Kyanon - Ballista (floor 1)
 // Arm of King Leoric - Tomb Wand (floor 1)
 // Heart Carver - Rondel (floor 1)
@@ -131,6 +136,7 @@ Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7
 // Grim's Burning Dead - Grim Scythe (floor 2)
 // Suicide Branch - Burnt Wand (floor 1)
 // Silks of the Victor - Ancient Armor (non-ETH 2, ETH 4; locked)
+// Titan's Revenge - Ceremonial Javelin (non-ETH 2, ETH 2; ETH floor 2)
 // Blood Raven's Charge - Matriarchal Bow
 // Ebonbane - Grand Matron Bow (floor 1)
 // Swiftwind Needle - Sharp Arrows
@@ -140,10 +146,12 @@ Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7
 // Arreat's Face - Slayer Guard
 // Demonhorn's Edge - Destroyer Helm
 // Raekor's Virtue - Guardian Crown (floor 1)
+// Venom Ward - Breast Plate (non-ETH 2, ETH 1; floor 1; ETH floor 1)
 // Anvilguard Strap - Heavy Bolts
 // Shatterhead - Heavy Bolts
 // Cerebus' Bite - Blood Spirit (floor 1)
 // The Patriarch - Great Sword
+// Frostburn - Gauntlets (non-ETH 2, ETH 1)
 // Steelclash - Kite Shield (floor 2)
 // Heavenly Garb - Light Plate
 // Treads of Cthon - Chain Boots (floor 2)
@@ -151,12 +159,9 @@ Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7
 // The Oculus - Swirling Crystal
 // Eschuta's Temper - Eldritch Orb
 // Embersworn - Demon Heart
-// Death's Fathom - Dimensional Shard
 // Dragonscale - Zakarum Shield (floor 1)
 // Goldwrap - Heavy Belt
-// Shadow Dancer - Myrmidon Greaves (floor 2)
 // Sage's Defiance - Giant Conch
-// Merman's Sprocket - Wyrmhide Boots
 // Leviathan - Kraken Shell (floor 1)
 // Titan's Grip - Bramble Mitts
 // Spike Thorn - Blade Barrier (floor 1)
@@ -168,11 +173,12 @@ Alias[3_STAR_UNIQUE]: (6bs OR 7b7 OR 7gd OR 7gm OR 7lw OR 7s8 OR 7tw OR 7wb OR 7
 // Hellmouth - War Gauntlets
 // Venom Grip - Demonhide Gloves (floor 1)
 // Ghoulhide - Heavy Bracers
-// Skullder's Ire - Russet Armor (floor 1)
 // Atma's Wail - Embossed Plate (floor 2)
 // Que-Hegan's Wisdom - Mage Plate
+// Spirit Shroud - Ghost Armor
+// The Spirit Shroud - Ghost Armor (non-ETH 2, ETH unstarred)
 // Gravepalm - Sharkskin Gloves
-Alias[2_STAR_UNIQUE]: (6sw OR 7bt OR 7bw OR 7fl OR 7gs OR 7m7 OR 7p7 OR 7sr OR 7ts OR 7wa OR 8hx OR 9bw OR 9di OR 9fc OR 9gw OR 9s8 OR 9tw OR 9wc OR 9wn OR aar OR amb OR amc OR aqv2 OR ba6 OR ba7 OR baa OR bad OR baf OR cqv2 OR drb OR gsd OR kit OR ltp OR mbt OR nee OR oba OR obc OR obd OR obf OR pae OR tbl OR uhb OR uhl OR ulb OR uld OR ulg OR upk OR ush OR utu OR uvb OR xap OR xcl OR xhg OR xlg OR xmg OR xpl OR xth OR xtp OR xvg)
+Alias[2_STAR_UNIQUE]: (7bt OR 7fl OR 7gs OR 7m7 OR 7p7 OR 7sr OR 7ts OR 7wa OR 7yw OR 8hx OR 9bw OR 9di OR 9fc OR 9gw OR 9s8 OR 9tw OR 9wc OR 9wn OR aar OR ama OR amb OR amc OR aqv2 OR ba6 OR ba7 OR baa OR bad OR baf OR brs OR cqv2 OR drb OR gsd OR hgl OR kit OR ltp OR mbt OR nee OR oba OR obc OR obd OR pae OR tbl OR uhl OR uld OR ulg OR upk OR ush OR utu OR uvb OR xap OR xcl OR xhg OR xlg OR xmg OR xth OR xtp OR xui OR xvg)
 
 // 1 Star Unique Callouts (non-ETH copies)
 //-----------------------------------------------------------------------------------
@@ -182,39 +188,36 @@ Alias[2_STAR_UNIQUE]: (6sw OR 7bt OR 7bw OR 7fl OR 7gs OR 7m7 OR 7p7 OR 7sr OR 7
 // Viperfork - Mancatcher
 // Wizardspike - Bone Knife
 // Shatterblade - Mithril Point
+// Odium - Colossus Sword (non-ETH 1, ETH 0)
 // Executioner's Justice - Glorious Axe
 // Frostwind - Cryptic Sword
 // Gimmershred - Flying Axe
 // Giant Maimer - Colossus Voulge
-// Nethercrux - Ghost Wand
 // Chromatic Ire - Cedar Staff
 // Ribcracker - Quarterstaff (non-ETH 1, ETH 4; ETH floor 4)
 // Witchwild String - Short Siege Bow
 // Swordguard - Executioner Sword
 // The Gavel of Pain - Martel de Fer (non-ETH 1, ETH 3; ETH floor 2)
-// Titan's Revenge - Ceremonial Javelin (non-ETH 1, ETH 2; ETH floor 2)
-// Venom Ward - Breast Plate (floor 1)
 // Biggin's Bonnet - Cap (floor 1)
 // Ursa's Nightmare - Dream Spirit
 // Duskdeep - Full Helm (floor 1)
 // Humongous - Giant Axe
-// Frostburn - Gauntlets
 // Chance Guards - Chain Gloves
 // Homunculus - Hierophant Trophy
+// Blackoak Shield - Luna (non-ETH 1, ETH no-star)
 // Purgatory - Archon Plate (non-ETH 1, ETH 4; ETH floor 4)
 // Bloodfist - Heavy Gloves
 // Corpsemourn - Ornate Plate
 // Rockstopper - Sallet
 // Toothrow - Sharktooth Armor
 // Crown of Thieves - Grand Crown (floor 1)
-// Spirit Shroud - Ghost Armor
+// Radament's Sphere - Ancient Shield (non-ETH 1, ETH 0)
 // Black Hades - Chaos Armor
-Alias[1_STAR_UNIQUE]: (6cs OR 6l7 OR 72a OR 7br OR 7dg OR 7di OR 7gi OR 7ls OR 7ta OR 7vo OR 7yw OR 8cs OR 8ls OR 8s8 OR 9gd OR 9gm OR ama OR brs OR cap OR drf OR fhl OR gix OR hgl OR mgl OR nea OR utp OR vgl OR xar OR xkp OR xld OR xrn OR xui OR xul)
+Alias[1_STAR_UNIQUE]: (6cs OR 6l7 OR 72a OR 7br OR 7dg OR 7di OR 7fb OR 7gi OR 7ls OR 7ta OR 7vo OR 8cs OR 8ls OR 8s8 OR 9gd OR 9gm OR cap OR drf OR fhl OR gix OR mgl OR nea OR uml OR utp OR vgl OR xar OR xkp OR xld OR xrn OR xts OR xul)
 
 // 0 Star Unique Callouts (non-ETH copies)
 //-----------------------------------------------------------------------------------
 // Lacerator - Winged Axe (non-ETH 0, ETH 4; ETH floor 4)
-// Odium - Colossus Sword
 // Endlesshail - Double Bow
 // Blackbog's Sharp - Cinquedeas
 // Bloodtree Stump - War Club (non-ETH 0, ETH 2; ETH floor 1)
@@ -222,8 +225,7 @@ Alias[1_STAR_UNIQUE]: (6cs OR 6l7 OR 72a OR 7br OR 7dg OR 7di OR 7gi OR 7ls OR 7
 // The Jade Tan Do - Kris
 // Wizendraw - Long Battle Bow
 // Gorefoot - Heavy Boots
-// Radament's Sphere - Ancient Shield
-Alias[0_STAR_UNIQUE]: (7b8 OR 7fb OR 8cb OR 9kr OR 9m9 OR bac OR kri OR lbb OR vbt OR xts)
+Alias[0_STAR_UNIQUE]: (7b8 OR 8cb OR 9kr OR 9m9 OR bac OR kri OR lbb OR vbt)
 
 // NO Star Unique Callouts (non-ETH copies)
 //-----------------------------------------------------------------------------------
@@ -236,8 +238,7 @@ Alias[0_STAR_UNIQUE]: (7b8 OR 7fb OR 8cb OR 9kr OR 9m9 OR bac OR kri OR lbb OR v
 // The Impaler - War Spear
 // Gull - Dagger
 // The Hand of Broc - Leather Gloves
-// Blackoak Shield - Luna
-Alias[NO_STAR_UNIQUE]: (7sm OR 8lb OR 8sw OR 9b9 OR 9fl OR 9la OR 9sr OR dgr OR lgl OR uml)
+Alias[NO_STAR_UNIQUE]: (7sm OR 8lb OR 8sw OR 9b9 OR 9fl OR 9la OR 9sr OR dgr OR lgl)
 
 // 4 Star Unique Callouts (ETH copies)
 //-----------------------------------------------------------------------------------
@@ -333,7 +334,7 @@ Alias[4_STAR_ETH_UNIQUE]: (6lw OR 6ws OR 7b7 OR 7b8 OR 7bl OR 7cr OR 7gd OR 7gm 
 // Spirit Ward - Ward (non-ETH 4, ETH 3; floor 3)
 // Warriv's Warder - Heater (floor 2)
 // Nosferatu's Coil - Vampirefang Belt (floor 2)
-// Skin of the Vipermagi - Serpentskin Armor (floor 2)
+// Skin of the Vipermagi - Serpentskin Armor (non-ETH 4, ETH 3; floor 2; ETH floor 2)
 // Valkyrie Wing - Winged Helm (floor 1)
 // Shaftstop - Mesh Armor (floor 2)
 // Infernostride - Demonhide Boots (floor 2)
@@ -347,9 +348,9 @@ Alias[3_STAR_ETH_UNIQUE]: (6bs OR 7lw OR 7p7 OR 7tw OR 7wb OR 7xf OR 8mx OR 8rx 
 
 // 2 Star Unique Callouts (ETH copies)
 //-----------------------------------------------------------------------------------
-// Widowmaker - Ward Bow
+// Widowmaker - Ward Bow (non-ETH 3, ETH 2)
 // Hellslayer - Decapitator (floor 1)
-// Boneshade - Lich Wand (floor 1)
+// Boneshade - Lich Wand (non-ETH 4, ETH 2; floor 1; ETH floor 1)
 // Horizon's Tornado - Scourge (floor 2)
 // Stormlash - Scourge (floor 2)
 // Flamebellow - Balrog Blade
@@ -364,7 +365,7 @@ Alias[3_STAR_ETH_UNIQUE]: (6bs OR 7lw OR 7p7 OR 7tw OR 7wb OR 7xf OR 8mx OR 8rx 
 // Bartuc's Cut-Throat - Greater Talons
 // Grim's Burning Dead - Grim Scythe (floor 2)
 // Suicide Branch - Burnt Wand (floor 1)
-// Titan's Revenge - Ceremonial Javelin (non-ETH 1, ETH 2; ETH floor 2)
+// Titan's Revenge - Ceremonial Javelin (non-ETH 2, ETH 2; ETH floor 2)
 // Blood Raven's Charge - Matriarchal Bow
 // Ebonbane - Grand Matron Bow (floor 1)
 // Swiftwind Needle - Sharp Arrows
@@ -388,13 +389,13 @@ Alias[3_STAR_ETH_UNIQUE]: (6bs OR 7lw OR 7p7 OR 7tw OR 7wb OR 7xf OR 8mx OR 8rx 
 // The Oculus - Swirling Crystal
 // Eschuta's Temper - Eldritch Orb
 // Embersworn - Demon Heart
-// Death's Fathom - Dimensional Shard
+// Death's Fathom - Dimensional Shard (non-ETH 3, ETH 2)
 // Dragonscale - Zakarum Shield (floor 1)
 // Goldwrap - Heavy Belt
-// Shadow Dancer - Myrmidon Greaves (floor 2)
+// Shadow Dancer - Myrmidon Greaves (non-ETH 3, ETH 2; floor 2; ETH floor 2)
 // Sage's Defiance - Giant Conch
-// Stormshield - Monarch (non-ETH 3, ETH 2; floor 2)
-// Merman's Sprocket - Wyrmhide Boots
+// Stormshield - Monarch (non-ETH 4, ETH 2; floor 2)
+// Merman's Sprocket - Wyrmhide Boots (non-ETH 3, ETH 2)
 // Leviathan - Kraken Shell (floor 1)
 // Titan's Grip - Bramble Mitts
 // Steel Shade - Armet (non-ETH 4, ETH 2; floor 3)
@@ -402,14 +403,14 @@ Alias[3_STAR_ETH_UNIQUE]: (6bs OR 7lw OR 7p7 OR 7tw OR 7wb OR 7xf OR 8mx OR 8rx 
 // Arkaine's Valor - Balrog Skin (non-ETH 4, ETH 2; floor 3)
 // Head Hunter's Glory - Troll Nest (floor 2)
 // The Gladiator's Bane - Wire Fleece (floor 2)
-// Ormus' Robes - Dusk Shroud (non-ETH 3, ETH 2; floor 3)
+// Ormus' Robes - Dusk Shroud (non-ETH 4, ETH 2; floor 3)
 // Sandstorm Trek - Scarabshell Boots (floor 2)
 // Peasant Crown - War Hat
 // Crow Caw - Tigulated Mail (floor 1)
 // Hellmouth - War Gauntlets
 // Venom Grip - Demonhide Gloves (floor 1)
 // Ghoulhide - Heavy Bracers
-// Skullder's Ire - Russet Armor (floor 1)
+// Skullder's Ire - Russet Armor (non-ETH 3, ETH 2; floor 1; ETH floor 1)
 // Atma's Wail - Embossed Plate (floor 2)
 // Que-Hegan's Wisdom - Mage Plate
 // Gravepalm - Sharkskin Gloves
@@ -427,25 +428,26 @@ Alias[2_STAR_ETH_UNIQUE]: (6sw OR 7bt OR 7bw OR 7fl OR 7gs OR 7m7 OR 7ts OR 8hx 
 // Frostwind - Cryptic Sword
 // Gimmershred - Flying Axe
 // Giant Maimer - Colossus Voulge
-// Nethercrux - Ghost Wand
+// Nethercrux - Ghost Wand (non-ETH 2, ETH 1)
 // Chromatic Ire - Cedar Staff
 // Witchwild String - Short Siege Bow
 // Swordguard - Executioner Sword
-// Venom Ward - Breast Plate (floor 1)
+// Venom Ward - Breast Plate (non-ETH 2, ETH 1; floor 1; ETH floor 1)
 // Biggin's Bonnet - Cap (floor 1)
 // Ursa's Nightmare - Dream Spirit
 // Duskdeep - Full Helm (floor 1)
 // Humongous - Giant Axe
-// Frostburn - Gauntlets
+// Frostburn - Gauntlets (non-ETH 2, ETH 1)
 // Chance Guards - Chain Gloves
 // Homunculus - Hierophant Trophy
-// Harlequin Crest - Shako (non-ETH 3, ETH 1; floor 3)
+// Harlequin Crest - Shako (non-ETH 4, ETH 1; floor 3)
 // Bloodfist - Heavy Gloves
 // Corpsemourn - Ornate Plate
 // Rockstopper - Sallet
 // Toothrow - Sharktooth Armor
 // Crown of Thieves - Grand Crown (floor 1)
 // Spirit Shroud - Ghost Armor
+// The Spirit Shroud - Ghost Armor (non-ETH 2, ETH unstarred)
 // Black Hades - Chaos Armor
 // Thundergod's Vigor - War Belt (non-ETH 3, ETH 1; floor 2)
 // Snowclash - Battle Belt (non-ETH 3, ETH 1; floor 2)
@@ -453,14 +455,14 @@ Alias[1_STAR_ETH_UNIQUE]: (6cs OR 6l7 OR 72a OR 7br OR 7dg OR 7di OR 7gi OR 7ls 
 
 // 0 Star Unique Callouts (ETH copies)
 //-----------------------------------------------------------------------------------
-// Odium - Colossus Sword
+// Odium - Colossus Sword (non-ETH 1, ETH 0)
 // Endlesshail - Double Bow
 // Blackbog's Sharp - Cinquedeas
 // Wolfhowl - Fury Visor
 // The Jade Tan Do - Kris
 // Wizendraw - Long Battle Bow
 // Gorefoot - Heavy Boots
-// Radament's Sphere - Ancient Shield
+// Radament's Sphere - Ancient Shield (non-ETH 1, ETH 0)
 Alias[0_STAR_ETH_UNIQUE]: (7fb OR 8cb OR 9kr OR bac OR kri OR lbb OR vbt OR xts)
 
 // NO Star Unique Callouts (ETH copies)
@@ -473,7 +475,7 @@ Alias[0_STAR_ETH_UNIQUE]: (7fb OR 8cb OR 9kr OR bac OR kri OR lbb OR vbt OR xts)
 // The Impaler - War Spear
 // Gull - Dagger
 // The Hand of Broc - Leather Gloves
-// Blackoak Shield - Luna
+// Blackoak Shield - Luna (non-ETH 1, ETH no-star)
 Alias[NO_STAR_ETH_UNIQUE]: (7sm OR 8lb OR 8sw OR 9b9 OR 9fl OR 9sr OR dgr OR lgl OR uml)
 
 // LLD Unique Callouts
@@ -509,28 +511,29 @@ Alias[4_STAR_SET]: (lbt)
 //-----------------------------------------------------------------------------------
 // Natalya's Mark - Scissors Suwayyah (floor 1)
 // Griswold's Redemption - Caduceus (floor 3)
+// Aldur's Stony Gaze - Hunter's Guise
 // Trang-Oul's Wing - Cantor Trophy (floor 2)
 // Immortal King's Soul Cage - Sacred Armor (floor 2)
 // Natalya's Shadow - Loricated Mail (floor 2)
+// Laying of Hands - Bramble Mitts (floor 2)
+// Tal Rasha's Guardianship - Lacquered Plate (floor 1)
 // Trang-Oul's Claws - Heavy Bracers (floor 3)
 // Trang-Oul's Scales - Chaos Armor (floor 1)
-Alias[3_STAR_SET]: (7qr OR 7ws OR ne9 OR uar OR ucl OR xmg OR xul)
+Alias[3_STAR_SET]: (7qr OR 7ws OR dr8 OR ne9 OR uar OR ucl OR ulg OR uth OR xmg OR xul)
 
 // Set 2 star Callouts
 //-----------------------------------------------------------------------------------
 // Naj's Puzzler - Elder Staff (floor 2)
 // Immortal King's Stone Crusher - Ogre Maul
 // Immortal King's Will - Avenger Guard
-// Aldur's Stony Gaze - Hunter's Guise
 // Hsarus' Iron Stay - Belt
 // Hwanin's Blessing - Belt (floor 1)
 // Tal Rasha's Lidless Eye - Swirling Crystal
 // Griswold's Honor - Vortex Shield
 // Cow King's Hide - Studded Leather
-// Laying of Hands - Bramble Mitts (floor 2)
 // Griswold's Valor - Corona
 // Trang-Oul's Girth - Troll Belt (floor 2)
-// Tal Rasha's Guardianship - Lacquered Plate (floor 1)
+// Taebaek's Glory - Ward
 // Aldur's Deception - Shadow Plate
 // Cow King's Hooves - Heavy Boots
 // Sander's Riprap - Heavy Boots
@@ -541,35 +544,34 @@ Alias[3_STAR_SET]: (7qr OR 7ws OR ne9 OR uar OR ucl OR xmg OR xul)
 // Guillaume's Face - Winged Helm (floor 2)
 // Natalya's Soul - Mesh Boots (floor 1)
 // Tal Rasha's Horadric Crest - Death Mask
+// Aldur's Advance - Battle Boots
 // Magnus' Skin - Sharkskin Gloves (floor 1)
 // Immortal King's Detail - War Belt
-Alias[2_STAR_SET]: (6cs OR 7m7 OR ba5 OR dr8 OR mbl OR oba OR paf OR stu OR ulg OR urn OR utc OR uth OR uul OR vbt OR xap OR xar OR xh9 OR xhb OR xhm OR xmb OR xsk OR xvg OR zhb)
+Alias[2_STAR_SET]: (6cs OR 7m7 OR ba5 OR mbl OR oba OR paf OR stu OR urn OR utc OR uts OR uul OR vbt OR xap OR xar OR xh9 OR xhb OR xhm OR xmb OR xsk OR xtb OR xvg OR zhb)
 
 // Set 1 star Callouts
 //-----------------------------------------------------------------------------------
+// Dangoon's Teaching - Reinforced Mace
 // Aldur's Rhythm - Jagged Star
 // M'avina's Caster - Grand Matron Bow
+// Naj's Circlet - Circlet
 // M'avina's True Sight - Diadem
 // Death's Hand - Leather Gloves
 // Sigon's Guard - Tower Shield (floor 1)
 // Ondal's Almighty - Spired Helm (floor 1)
 // M'avina's Embrace - Kraken Shell
-// Taebaek's Glory - Ward
 // Immortal King's Forge - War Gauntlets
-// Aldur's Advance - Battle Boots
 // M'avina's Icy Clutch - Battle Gauntlets
 // Tal Rasha's Fine-Spun Cloth - Mesh Belt
 // M'avina's Tenet - Sharkskin Belt
-Alias[1_STAR_SET]: (9mt OR amc OR ci3 OR lgl OR tow OR uhm OR uld OR uts OR xhg OR xtb OR xtg OR zmb OR zvb)
+Alias[1_STAR_SET]: (7ma OR 9mt OR amc OR ci0 OR ci3 OR lgl OR tow OR uhm OR uld OR xhg OR xtg OR zmb OR zvb)
 
 // Set 0 star Callouts
 //-----------------------------------------------------------------------------------
-// Dangoon's Teaching - Reinforced Mace
-// Naj's Circlet - Circlet
 // Naj's Light Plate - Hellforge Plate
 // Rite of Passage - Demonhide Boots
 // Haemosu's Adamant - Cuirass
-Alias[0_STAR_SET]: (7ma OR ci0 OR ult OR xlb OR xrs)
+Alias[0_STAR_SET]: (ult OR xlb OR xrs)
 
 // Set LLD Callouts
 //-----------------------------------------------------------------------------------
